@@ -1,10 +1,1 @@
-asdadsad
-as
-asd
-ads
-a
-
-asdadads
-
-
-adsasdasdasd
+This is a new idea for file1.txt
